@@ -24,4 +24,3 @@ This implementation is based on / inspired by:
 
 <a href="https://github.com/StanfordMIMI/DDM2">DDM2 Repository</a>
 
-<a href="https://arxiv.org/pdf/2305.10925"> PLRDiff </a> 
