@@ -21,3 +21,6 @@ This implementation is based on / inspired by:
 <a href="https://github.com/bahjat-kawar/ddrm">DDRM Repository</a>
 
 <a href="https://github.com/wgcban/ddpm-cd">DDPM-CD Repository</a>
+
+<a href="https://github.com/StanfordMIMI/DDM2">DDM2 Repository</a>
+
