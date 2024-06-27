@@ -9,3 +9,11 @@ Haijin Zeng, Jiezhang Cao, Kai Zhang, Yongyong Chen, Hiep Luong, Wilfried Philip
 ><p align="center">
   <img width="1000" src="diff-unmix.png">
 </p>
+
+
+
+
+This implementation is based on / inspired by: 
+<a href="https://github.com/wyhuai/DDNM">DDNM Repository</a>
+<a href="https://github.com/bahjat-kawar/ddrm">DDRM Repository</a>
+<a href="https://github.com/wgcban/ddpm-cd">DDPM-CD Repository</a>
