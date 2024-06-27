@@ -2,7 +2,7 @@
 This code started out as a PyTorch port of the following:
 https://github.com/HJ-harry/MCG_diffusion/blob/main/guided_diffusion/gaussian_diffusion.py
 
-The conditions are changed and coefficient matrix estimation is added.
+In addition to the original code, for our Diff-Unmix model, we have incorporated spectral unmixing-based guidance into the sampling process to manage the generation procedure.
 """
 
 import enum
