@@ -1,4 +1,5 @@
-# Diff-Unmix: Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising
+<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_Unmixing_Diffusion_for_Self-Supervised_Hyperspectral_Image_Denoising_CVPR_2024_paper.pdf"><strong>Diff-Unmix: Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising</strong></a>
+
 Haijin Zeng, Jiezhang Cao, Kai Zhang, Yongyong Chen, Hiep Luong, Wilfried Philips
 
 ><p align="center">
@@ -13,7 +14,10 @@ Haijin Zeng, Jiezhang Cao, Kai Zhang, Yongyong Chen, Hiep Luong, Wilfried Philip
 
 
 
-This implementation is based on / inspired by: 
+This implementation is based on / inspired by:
+
 <a href="https://github.com/wyhuai/DDNM">DDNM Repository</a>
+
 <a href="https://github.com/bahjat-kawar/ddrm">DDRM Repository</a>
+
 <a href="https://github.com/wgcban/ddpm-cd">DDPM-CD Repository</a>
