@@ -11,7 +11,7 @@ Haijin Zeng, Jiezhang Cao, Kai Zhang, Yongyong Chen, Hiep Luong, Wilfried Philip
   <img width="1000" src="diff-unmix.png">
 </p>
 
-
+The pre-trained condition function and spectral unmixing network can be downloaded from <a href="https://drive.google.com/file/d/1l_jPrgy6ZnINEk6JV1W2o7OiABXyZwke/view?usp=drive_link"> here </a>.
 
 
 This implementation is based on / inspired by:
