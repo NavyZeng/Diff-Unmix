@@ -328,7 +328,7 @@ class GaussianDiffusion:
                 norm_gradX = grad(outputs=norm1, inputs=img)
                 # correction with gradient, note: guidance scale is a sensitive hyperparameter 
                 guidance_scale = th.tensor(5.0)
-                out["sample"] = out["sample"] - guidance_scale * norm_gradX[0] # data varied, 1.5->2.5->3.5->4.5->6->10, PSNR: 27.5dB -> 29dB-> 29.7 ->30 ->30.37 ->30.7 smaller seems take more cuda memory
+                out["sample"] = out["sample"] - guidance_scale * norm_gradX[0] # data varied
                 # save GPU memory
                 del Ahat_1, norm1, norm_gradX
             gc.collect()
