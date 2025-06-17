@@ -2,7 +2,7 @@
 
 Haijin Zeng, Jiezhang Cao, Kai Zhang, Yongyong Chen, Hiep Luong, Wilfried Philips
 
-There is a follow-up work with much better performance and new design: <a href="[https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_Unmixing_Diffusion_for_Self-Supervised_Hyperspectral_Image_Denoising_CVPR_2024_paper.pdf](https://openreview.net/pdf?id=Q150eWkQ4I)"><strong>Spectral Compressive Imaging via Unmixing-driven Subspace Diffusion Refinement</strong></a>
+There is a follow-up work with much better performance and new design: <a href="[https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_Unmixing_Diffusion_for_Self-Supervised_Hyperspectral_Image_Denoising_CVPR_2024_paper.pdf](https://openreview.net/pdf?id=Q150eWkQ4I)"></strong>Spectral Compressive Imaging via Unmixing-driven Subspace Diffusion Refinement</strong></a>
 
 
 ><p align="center">
